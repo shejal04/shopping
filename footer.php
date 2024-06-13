@@ -46,12 +46,17 @@
                     <?php } ?>
                 </ul>
             </div>
-            <div class="col-md-12">
+            <div> <p><h1>Chat with us </h1></p>
+            
+              <iframe src='https://webchat.botframework.com/embed/ShoppingWebsiteBot123?s=AsA1iiRXsHM.3Ov4CW-8gB4SQWEfslA4JT2GJ6SzsgA2cmRBsFQwPmA'  style='min-width: 150px; width: 100%; min-height: 300px;'></iframe>
+                </div>
+                    <div class="col-md-12">
                 <span><?php echo $footer[0]['footer_text'] ?> | Created by <a href="https://www.yahoobaba.net" target="_blank">me</a></span>
             </div>
         </div>
     </div>
 </div>
+
 <script src="js\jquery-1.10.2.min.js" type="text/javascript"></script>
 <script src="js\bootstrap.min.js"></script>
 <script src="js\actions.js"></script>
