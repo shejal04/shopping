@@ -17,11 +17,9 @@ include 'header.php'; ?>
             <div class="col-md-12">
                 <div class="banner-content ">
                     <div class="banner-carousel owl-carousel owl-theme">
+                        
                         <div class="item">
-                            <img src="images/banner-img-2.jpg" alt=""/>
-                        </div>
-                        <div class="item">
-                            <img src="images/banner-img-1.jpg" alt=""/>
+                            <img src="images/banner-img-1.jpeg" alt=""/>
                         </div>
                     </div>
                 </div>
