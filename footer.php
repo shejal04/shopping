@@ -49,7 +49,7 @@
             <div> <p><h1>Chat with us </h1></p>
             
               <iframe src='https://webchat.botframework.com/embed/ShoppingWebsiteBot123?s=AsA1iiRXsHM.3Ov4CW-8gB4SQWEfslA4JT2GJ6SzsgA2cmRBsFQwPmA'  style='min-width: 150px; width: 100%; min-height: 300px;'></iframe>
-                </div>
+              </div>
                     <div class="col-md-12">
                 <span><?php echo $footer[0]['footer_text'] ?> | Created by <a href="https://www.yahoobaba.net" target="_blank">me</a></span>
             </div>
