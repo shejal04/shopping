@@ -20,9 +20,8 @@ The aim of the Super Market project is to create a reliable and user-friendly on
 </h4>
 <hr>
 <h2>Web Technologies used</h2>
-<h4><ul><li>HTML</li>
+<h4><ul><li>JavaScript</li>
 <li>CSS</li>
-<li>JavaScript</li>
 <li>Bootstrap</li>
 <li>PHP</li>
 <li>MYSQL</li></ul></h4>
