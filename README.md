@@ -27,4 +27,4 @@ The aim of the Super Market project is to create a reliable and user-friendly on
 <li>MYSQL</li></ul></h4>
 <hr>
 <h2>Resource Visualizer</h2>
-![alt text](Azureservices/)
+![alt text](resource visualizer.png)
