@@ -29,6 +29,9 @@ The aim of the Super Market project is to create a reliable and user-friendly on
 <h2>Resource Visualizer</h2>
 
  ![alt text](<Azureservices/resource visualizer.png>) 
+ 
+ <h2>Azure Resources Overview:</h2>
+ <h4>Virtual Machine and Deployment</h4>
  ![alt text](<Azureservices/Screenshot 2024-06-13 193754.png>) 
  ![alt text](<Azureservices/Screenshot 2024-06-13 194141.png>)
  ![alt text](<Azureservices/Screenshot 2024-06-13 194357.png>) 
