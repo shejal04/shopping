@@ -3,7 +3,8 @@
 <h3>Working Links For The Project</h3>
 <h4>Demo URL: http://4.213.153.55/shopping-project/</h4>
 <h4>Github Repository:  https://github.com/shejal04/shopping </h4>
-<h4>Project Documentation with Project video: </h4>
+<h4>Detailed Documentation with Project video: https://drive.google.com/drive/folders/1wzo6-9vJkYsRuLHFx1zDTnt6bYnLvYa1?usp=drive_link </h4>
+<h4>Overview Short video: https://drive.google.com/file/d/1mKjMl3mFE0NsrTB1ce2ivE5qca79LKdG/view?usp=sharing </h4>
 <hr>
 <h2>Project Aim</h2>
 <h4>The Super Market website is an advanced online shopping platform designed to provide a seamless and efficient user experience through the integration of modern web technologies and robust backend services. 
